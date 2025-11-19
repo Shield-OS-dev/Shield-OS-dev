@@ -1,16 +1,32 @@
-## Hi there 👋
+# ShieldOS-dev
 
-<!--
-**Shield-OS-dev/Shield-OS-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working on ShieldOS, a decentralized personal security operating system on Solana.
 
-Here are some ideas to get you started:
+ShieldOS focuses on encrypted mail, storage, password management, private messaging, and security-focused AI inside a single dashboard.  
+Wallet-based authentication only, no Web2-style accounts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Scope
+
+- ShieldOS core architecture and dashboard  
+- Solana wallet integration and auth flows  
+- Encrypted modules for mail, drive, and vault  
+- Identity and permission layer design  
+- Security and threat modeling
+
+## Design Principles
+
+- Privacy-first by default  
+- Minimal and auditable system design  
+- Strong cryptography with clear rationale  
+- No telemetry, no tracking, no data selling  
+
+## Projects
+
+Website  
+https://www.shieldos.xyz/
+
+DApp  
+https://app.shieldos.xyz/
+
+X  
+https://x.com/shield_os
